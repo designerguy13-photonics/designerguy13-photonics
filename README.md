@@ -27,19 +27,19 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/anurag-sharma-488351a2/">
-    <img width="30px" src="/assests/linkedin-line.svg"  />
+    <img width="30px" src="https://github.com/designerguy13-photonics/designerguy13-photonics/blob/main/Assests/linkedin-line.svg"  />
   </a>
   &nbsp;
   <a href="https://twitter.com/AnuragS68">
-    <img width="28px" src="/assests/twitter-line.svg" />
+    <img width="28px" src="https://github.com/designerguy13-photonics/designerguy13-photonics/blob/main/Assests/twitter-line.svg" />
   </a>  
   &nbsp;
   <a href="https://www.instagram.com/designer_guy13/">
-    <img width="28px" src="/assests/instagram-line.svg" />
+    <img width="28px" src="https://github.com/designerguy13-photonics/designerguy13-photonics/blob/main/Assests/instagram-line.svg" />
   </a>  
   &nbsp;
   <a href="https://medium.com/@anurag.ece">
-    <img width="28px" src="/assests/medium-line.svg" />
+    <img width="28px" src="https://github.com/designerguy13-photonics/designerguy13-photonics/blob/main/Assests/medium-line.svg" />
   </a> 
 </div>
 <br>
