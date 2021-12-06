@@ -10,20 +10,32 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </p>
 
 <div align="center">
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57214356163">
+    <img width="30px" src="https://th.bing.com/th/id/OIP.UShtKfIXjX8njssm6ODkwAAAAA?pid=ImgDet&rs=1"  />
+  </a>
+  &nbsp;
+  <a href="https://scholar.google.co.in/citations?user=kjhS3WwAAAAJ&hl=en&authuser=2">
+    <img width="30px" src="https://th.bing.com/th/id/OIP.630cR3qPxk4QNXSDB8EmAwHaHa?pid=ImgDet&rs=1"  />
+  </a>
+  &nbsp;
+   <a href="https://orcid.org/my-orcid?orcid=0000-0003-1737-7966">
+    <img width="30px" src="https://th.bing.com/th/id/OIP.honVXVcy2smBfSf7QsbVbgHaHa?w=168&h=180&c=7&r=0&o=5&pid=1.7"  />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/anurag-sharma-488351a2/">
-    <img width="30px" src="https://github.com/designerguy13-photonics/designerguy13-photonics/blob/main/Assests/linkedin-line.svg"  />
+    <img width="30px" src="https://th.bing.com/th/id/OIP.IisT1f8dqQuT-H_FDO4hegAAAA?pid=ImgDet&w=320&h=319&rs=1"  />
   </a>
   &nbsp;
   <a href="https://twitter.com/AnuragS68">
-    <img width="28px" src="https://github.com/designerguy13-photonics/designerguy13-photonics/blob/main/Assests/twitter-line.svg" />
+    <img width="28px" src="https://th.bing.com/th/id/R.79911da7ffca55c630631e18050cd5b0?rik=RR9eB21TKKbo7Q&riu=http%3a%2f%2fpluspng.com%2fimg-png%2ftwitter-png-logo-twitterbird-1528.png&ehk=YwDMCLo0lSKgclR48CT8CtPLMbcX1BAUPw87%2f6yyxRA%3d&risl=&pid=ImgRaw&r=0" />
   </a>  
   &nbsp;
   <a href="https://www.instagram.com/designer_guy13/">
-    <img width="28px" src="https://github.com/designerguy13-photonics/designerguy13-photonics/blob/main/Assests/instagram-line.svg" />
+    <img width="28px" src="https://th.bing.com/th/id/R.1e1fe7050fc9d37f3091fa0f40c7fb13?rik=%2bnNxMnyBnDt7Pg&riu=http%3a%2f%2fwilltorock.com%2fwp-content%2fuploads%2f2020%2f02%2fInstagram-Logo.png&ehk=Z8ByAIuOScXjUE1f6M3hvUIiItUAyqJasbgeEBtXi9E%3d&risl=&pid=ImgRaw&r=0" />
   </a>  
   &nbsp;
   <a href="https://medium.com/@anurag.ece">
-    <img width="28px" src="https://github.com/designerguy13-photonics/designerguy13-photonics/blob/main/Assests/medium-line.svg" />
+    <img width="38px" src="https://www.apemockups.com/wp-content/uploads/edd/2017/09/medium-icon-white-on-black.png" />
   </a> 
 </div>
 <br>
