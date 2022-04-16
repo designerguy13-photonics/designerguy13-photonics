@@ -1,5 +1,5 @@
 ### Hi there 👋 
-[ASSISTANT PROFESSOR,CHANDIGARH UNIVERSITY](https://github.com/ChandigarhUniv)✨
+[Optical System Design Engineer At Optisindia](https://www.opticsindia.com/)✨
 
 
 <p align="center" style="margin-top:10px">
