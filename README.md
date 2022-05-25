@@ -1,7 +1,4 @@
 ### Hi there 👋 
-[Optical System Design Engineer At Optisindia](https://www.opticsindia.com/)✨
-
-
 <p align="center" style="margin-top:10px">
 <b>
 Welcome to my Github profile!</b> <br>
@@ -46,3 +43,18 @@ Here are some ideas to get you started:
 <div align="center">
   - 🔭 I’m Actively working on enhancing knowledge and expertise in Quantum Optics and Computational MODELLING of NANOPHOTONIC DEVICES (specially modelling light and sound wave interactions at nanoscale, numerical methods, finite elements, Ray and wave propagation in nonlinear medium), comfortable with simulations ( ZEMAX OptiStudio, RSOFT-CAD and LUMERICAL FDTD and FEM solutions, KLAYOUT, ANSYS-RF Antenna Design, QUTIP,PY-MEEP, FEniCS, NumBAT) and data analysis tools (numpy, scipy, matplotlib, scikit-learn) and proficient in programming skills (Python, Verilog, System Verilog), SoC Custom Layout and Design Verification techniques.
 </div>
+
+<p>
+  <a align= "center" href="https://github.com/designerguy13-photonics">
+    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=designerguy13-photonics&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE" />
+    <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=designerguy13-photonics&theme=github-dark&border=FEFEFE">
+  </a>
+</p>
+<p align="center" style="margin-top:10px">
+<b>
+[Optical System Design Engineer At Optisindia](https://www.opticsindia.com/)✨
+  <div align="center">
+  <a href="https://www.bing.com/images/blob?bcid=qDkG3hT7eTYEbQ">
+    <img width="1000 px"src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.opticsindia.com/wp-content/uploads/2020/02/2.png"  />
+  </a>
+</p>
