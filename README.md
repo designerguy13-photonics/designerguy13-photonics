@@ -3,7 +3,7 @@
 [Currently, Optical Engineering Intern At Optisindia](https://www.opticsindia.com/)✨
   <div align="center">
   <a href="https://www.bing.com/images/blob?bcid=qDkG3hT7eTYEbQ">
-    <img width="600 px"src="https://github.com/designerguy13-photonics/ANURAG_SHARMA/blob/gh-pages/OPTICA/METALENS_ACHROMAT/Gallery/FocalShift.jpg"  />
+    <img width="300 px"src="https://github.com/designerguy13-photonics/ANURAG_SHARMA/blob/gh-pages/OPTICA/METALENS_ACHROMAT/Gallery/FocalShift.jpg"  />
   </a>
 </p>
 ### Hi there 👋 
