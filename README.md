@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center" style="margin-top:10px">
 <b>
-[Currently, Optical Engineering Intern At Optisindia](https://www.opticsindia.com/)✨
+
   <div align="center">
   <a href="https://www.bing.com/images/blob?bcid=qDkG3hT7eTYEbQ">
     <img width="1000 px"src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.opticsindia.com/wp-content/uploads/2020/02/2.png"  />
