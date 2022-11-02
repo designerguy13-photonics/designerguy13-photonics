@@ -66,3 +66,7 @@ Here are some ideas to get you started:
     <img width="1000 px"src="https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://www.opticsindia.com/wp-content/uploads/2020/02/2.png"  />
   </a>
 </p>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="designerguy13atpec" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/designerguy13atpec?trk=profile-badge">ANURAG SHARMA</a></div>
+              
